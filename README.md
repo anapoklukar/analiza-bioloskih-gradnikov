@@ -5,5 +5,4 @@
 **Avtorja:** Blaž Grilj, Ana Poklukar
 
 ## 🔎 Kratek opis
-
-V projektu preučujemo občutljivost treh ključnih bioloških gradnikov — genetskega stikala, oscilatorja in feed-forward motiva. S kombinacijo lokalnih in globalnih metod analiziramo, kako spremembe parametrov vplivajo na stabilnost. Namen projekta je oceniti robustnost gradnikov ter podpreti izbiro stabilnih topologij za biološko procesiranje podatkov.
+V tej seminarski nalogi smo preučevali občutljivost treh bioloških regulatornih motivov (genetsko stikalo, oscilator in koherentni feed-forward motiv). Motive smo opisali z determinističnimi modeli ter implementirali lokalno in globalno analizo občutljivosti v programskem jeziku Python. Na podlagi numeričnih simulacij smo pokazali, kateri parametri najbolj vplivajo na izbrane izhodne metrike posameznih motivov. Rezultati razkrivajo omejitve lokalnih in globalnih pristopov, zato poudarimo potrebo po naprednejših metodah, ki združujejo njune prednosti.
